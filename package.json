@@ -59,6 +59,9 @@
       "url": "https://github.com/obscuren"
     }
   ],
+  "dependencies": {
+    "lerna": "^2.0.0"    
+  },
   "devDependencies": {
     "@types/bignumber.js": "^4.0.2",
     "@types/underscore": "^1.8.0",
@@ -83,7 +86,6 @@
     "gulp-uglify": "^3.0.0",
     "istanbul": "^0.4.4",
     "jshint": ">=2.5.0",
-    "lerna": "^2.0.0",
     "mocha": ">=2.3.3",
     "sandboxed-module": "^2.0.2",
     "underscore": "^1.8.3",
